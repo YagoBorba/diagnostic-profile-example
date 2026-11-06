@@ -1,0 +1,21 @@
+{
+  "generator": "diagnostic-profile",
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-06T03:22:54.898Z",
+  "version": "0.2.0",
+  "login": "YagoBorba",
+  "source": "github",
+  "warnings": [],
+  "inputHash": "ed07270fa1f27e95c074c838b270fdceca3bf29c812de1aaadaadd676bac8268",
+  "files": {
+    "header-dark.svg": "d90818270c22e4da0546e996a63ee0d4082e582eb2060890132cf91b63ffb13e",
+    "header-light.svg": "85e6823bc1b7af15454be7c6142ce7159f3327ad4a6e432ca9986f21fd466254",
+    "project-yagoborba-diagnostic-profile-dark.svg": "98f87ef67d8c700844fdced259f0e6b8fdef254e8fd0429a4b86fb7df7ac135a",
+    "project-yagoborba-diagnostic-profile-light.svg": "adb6735b6600346d3d6a98f99ef7803afbef6a4effa3befad9955a85165187e6",
+    "contact-c-digo-e-documenta-o-dark.svg": "835cd048247093cdb85c0adbbab3f2e0cdd2e5ac9485f6615f0442861f2a0a72",
+    "contact-yago-borba-dark.svg": "b43d28a28c2177227ba672867493053cbf65a0550f53c76d9884fec05b5943d0",
+    "contact-c-digo-e-documenta-o-light.svg": "8eb786111b38aa68275cf38aa3eb21c22606e3586158c74b652f9e2165a7276a",
+    "contact-yago-borba-light.svg": "3ef93d356680e3bdaccc18f7f05c88e8d7f5be1e80770856078dce8021a2c278",
+    "README.snippet.md": "dd64b0a7e5bea7de5e59d69c1d9c53f68ad8fe7935996b13e8b2c02dd766d878"
+  }
+}

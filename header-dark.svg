@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="346" viewBox="0 0 360 346" role="img" aria-labelledby="title desc">
+<title id="title">Diagnostic Profile</title>
+<desc id="desc">Diagnostic Profile. Exemplo público de instalação da Action por Yago Borba. EXEMPLO REAL. CÓDIGO ABERTO</desc>
+<style>
+.mono{font-family:ui-monospace, SFMono-Regular, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace}
+.sans{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif}
+.editorial{font-family:Georgia,"Times New Roman",serif}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+*{animation:none!important}
+</style>
+<path d="M16 1H344L359 16V330L344 345H16L1 330V16Z" fill="#0f141b" stroke="#2a3441"/><path d="M14 64V324H26" fill="none" stroke="#ffb547"/><circle cx="24" cy="20" r="3" fill="none" stroke="#8b98a5"/><circle cx="336" cy="20" r="3" fill="none" stroke="#8b98a5"/><text x="28" y="30" class="mono" font-size="13" font-weight="400" fill="#ffb547" text-anchor="start">BANCADA / MÓDULO</text><text x="28" y="92" class="mono" font-size="30" font-weight="400" fill="#e6edf3" text-anchor="start">Diagnostic</text><text x="28" y="135.5" class="mono" font-size="30" font-weight="400" fill="#e6edf3" text-anchor="start">Profile</text><text x="28" y="193" class="mono" font-size="18" font-weight="400" fill="#8b98a5" text-anchor="start">Exemplo público de</text><text x="28" y="219.1" class="mono" font-size="18" font-weight="400" fill="#8b98a5" text-anchor="start">instalação da Action por</text><text x="28" y="245.2" class="mono" font-size="18" font-weight="400" fill="#8b98a5" text-anchor="start">Yago Borba</text><text x="28" y="287.3" class="mono" font-size="14" font-weight="400" fill="#ffb547" text-anchor="start">EXEMPLO REAL / CÓDIGO ABERTO</text>
+</svg>
